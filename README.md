@@ -8,7 +8,8 @@ Apache Directory Server.
    * [LDAP for PHP](http://php.net/manual/en/book.ldap.php)
 * Is based on 
    * https://github.com/kwart/ldap-server/ and 
-   * http://stackoverflow.com/questions/11174835/add-memberof-attribute-to-apacheds 
+   * http://stackoverflow.com/questions/11174835/add-memberof-attribute-to-apacheds
+   * And, forked from https://github.com/dwimberger/ldap-ad-it
 
 ## Running
 
